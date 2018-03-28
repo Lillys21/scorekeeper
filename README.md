@@ -21,4 +21,4 @@ El Pseudocodigo me sirve para detallar a grandes razgos los pasos fundamentales 
 
 La secuencia grafica de nuestro Pseudocodigo
 
-![Diagrama de flujo del problema SCOREKEEPER](assets/img/DiagramaSCOREKEEPER.png)
+![Diagrama de flujo del problema SCOREKEEPER](assets/images/DiagramaSCOREKEEPER.png)
